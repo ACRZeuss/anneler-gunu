@@ -87,8 +87,8 @@ turtle.circle(200, 60)
 
 # Anneler Gününüz Kutlu Olsun!
 turtle.penup()
-turtle.goto(-150, 300)  # Yazıyı çiçeğin üstüne taşı
+turtle.goto(-250, 300)
 turtle.color("black")
-turtle.write("Anneler Gününüz Kutlu Olsun!", font=("Arial", 16, "bold"))
+turtle.write("Anneler Günü Kutlu Olsun", font=("Arial", 32, "bold"))
 
 turtle.done()
